@@ -122,7 +122,7 @@ Các bạn có thể liên hệ bác ấy qua telegram @dev_ngu
 
 ### Tổng kết
 
-Đoạn mã trên sẽ thực hiện (bạn có thể thay đổi domain vevocloud thành một domain khác
+Đoạn mã trên sẽ thực hiện (bạn có thể thay đổi domain vevocloud thành một domain khác)
 -   Nhấp vào server ưu tiên có chứa liên kết `vevocloud.com`.
 -   Nếu không tìm thấy server ưu tiên, sẽ nhấp vào server đầu tiên có trong danh sách.
 -   Theo dõi sự thay đổi trong DOM để cập nhật danh sách server và chọn lại nếu cần.
