@@ -43,7 +43,7 @@ Các bạn có thể liên hệ bác ấy qua telegram @dev_ngu
         -   Nếu phần tử `ploption` tồn tại, sẽ bắt đầu quan sát nó.
 #### Đoạn mã chính
 
-    <script>
+  
     function clickElement(element) {
         if (element) {
             console.log("Clicking element:", element);
@@ -115,7 +115,7 @@ Các bạn có thể liên hệ bác ấy qua telegram @dev_ngu
     } else {
         console.log("#ploption not found, cannot observe changes.");
     }
-</script>
+
 
 
 ### Tổng kết
